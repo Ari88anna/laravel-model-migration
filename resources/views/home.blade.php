@@ -15,7 +15,7 @@
             <li>
                 <h4>{{ $holiday->destination }}</h4>
                 <div>Duration of the trip: {{ $holiday->days }} days</div>                
-                <div>Price: {{ $holiday->amount }}</div>
+                <div>Price: {{ $holiday->amount }} €</div>
                 <div>Description: {{ $holiday->description }} days</div>
 
             </li>
